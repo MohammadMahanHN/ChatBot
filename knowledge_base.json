@@ -11,6 +11,10 @@
     {
       "question": "...",
       "answer": "Elipses"
+    },
+    {
+      "question":"what's your name?"
+      "answer":"I'm ChatBot"
     }
   ]
 }
