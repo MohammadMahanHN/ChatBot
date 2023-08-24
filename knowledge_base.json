@@ -1,6 +1,10 @@
 {
   "questions": [
     {
+      "question":"what's your name?"
+      "answer":"I'm ChatBot"
+    },
+    {
       "question": "hello!",
       "answer": "Hey there!"
     },
@@ -11,10 +15,6 @@
     {
       "question": "...",
       "answer": "Elipses"
-    },
-    {
-      "question":"what's your name?"
-      "answer":"I'm ChatBot"
     }
   ]
 }
