@@ -1,18 +1,24 @@
 {
-  "name": "knowledge_base.json",
-  "path": "knowledge_base.json",
-  "sha": "da06e8cfca2576e71705ab475740f10dd001b908",
-  "size": 557,
-  "url": "https://api.github.com/repos/MohammadMahanHN/ChatBot/contents/knowledge_base.json?ref=main",
-  "html_url": "https://github.com/MohammadMahanHN/ChatBot/blob/main/knowledge_base.json",
-  "git_url": "https://api.github.com/repos/MohammadMahanHN/ChatBot/git/blobs/da06e8cfca2576e71705ab475740f10dd001b908",
-  "download_url": "https://raw.githubusercontent.com/MohammadMahanHN/ChatBot/main/knowledge_base.json?token=BBOUIBQ53YZSLIK6RMFUFA3E5GEWM",
-  "type": "file",
-  "content": "ewogICJxdWVzdGlvbnMiOiBbCiAgICB7CiAgICAgICJxdWVzdGlvbiI6ICJ3\naGF0J3MgeW91ciBuYW1lPyIsCiAgICAgICJhbnN3ZXIiOiAiSSdtIENoYXRC\nb3QiCiAgICB9LAogICAgewogICAgICAicXVlc3Rpb24iOiAiaGVsbG8hIiwK\nICAgICAgImFuc3dlciI6ICJIZXkgdGhlcmUhIgogICAgfSwKICAgIHsKICAg\nICAgInF1ZXN0aW9uIjogImhvdyBhcmUgeW91PyIsCiAgICAgICJhbnN3ZXIi\nOiAiZ29vZCEgdGhhbmtzIGZvciBhc2tpbmchIgogICAgfSwKICAgIHsKICAg\nICAgInF1ZXN0aW9uIjogIi4uLiIsCiAgICAgICJhbnN3ZXIiOiAiRWxpcHNl\ncyIKICAgIH0sCiAgICB7CiAgICAgICJxdWVzdGlvbiI6ICJuZXdfcXVlc3Rp\nb24iLAogICAgICAiYW5zd2VyIjogIm5ld19hbnN3ZXIiCiAgICB9LAogICAg\newogICAgICAicXVlc3Rpb24iOiAibmV3X3F1ZXN0aW9uIiwKICAgICAgImFu\nc3dlciI6ICJuZXdfYW5zd2VyIgogICAgfSwKICAgIHsKICAgICAgInF1ZXN0\naW9uIjogIm5ld19xdWVzdGlvbiIsCiAgICAgICJhbnN3ZXIiOiAibmV3X2Fu\nc3dlciIKICAgIH0KICBdCn0=\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/MohammadMahanHN/ChatBot/contents/knowledge_base.json?ref=main",
-    "git": "https://api.github.com/repos/MohammadMahanHN/ChatBot/git/blobs/da06e8cfca2576e71705ab475740f10dd001b908",
-    "html": "https://github.com/MohammadMahanHN/ChatBot/blob/main/knowledge_base.json"
-  }
+  "questions": [
+    {
+      "question": "what's your name?",
+      "answer": "I'm ChatBot"
+    },
+    {
+      "question": "hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "new_question",
+      "answer": "new_answer"
+    }
+  ]
 }
