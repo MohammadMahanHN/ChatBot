@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "what's your name?",
+      "answer": "I'm ChatBot"
+    },
+    {
+      "question": "hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "new_question",
+      "answer": "new_answer"
+    }
+  ]
+}
