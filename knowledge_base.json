@@ -1,24 +1,18 @@
 {
-  "questions": [
-    {
-      "question": "what's your name?",
-      "answer": "I'm ChatBot"
-    },
-    {
-      "question": "hello!",
-      "answer": "Hey there!"
-    },
-    {
-      "question": "how are you?",
-      "answer": "good! thanks for asking!"
-    },
-    {
-      "question": "...",
-      "answer": "Elipses"
-    },
-    {
-      "question": "new_question",
-      "answer": "new_answer"
-    }
-  ]
+  "name": "knowledge_base.json",
+  "path": "knowledge_base.json",
+  "sha": "8c3ecd0c910916c1979699a7589bae90438eef2b",
+  "size": 406,
+  "url": "https://api.github.com/repos/MohammadMahanHN/ChatBot/contents/knowledge_base.json?ref=main",
+  "html_url": "https://github.com/MohammadMahanHN/ChatBot/blob/main/knowledge_base.json",
+  "git_url": "https://api.github.com/repos/MohammadMahanHN/ChatBot/git/blobs/8c3ecd0c910916c1979699a7589bae90438eef2b",
+  "download_url": "https://raw.githubusercontent.com/MohammadMahanHN/ChatBot/main/knowledge_base.json?token=BBOUIBRTGUEHABELLHBZQKDE5GGQW",
+  "type": "file",
+  "content": "ewogICJxdWVzdGlvbnMiOiBbCiAgICB7CiAgICAgICJxdWVzdGlvbiI6ICJ3\naGF0J3MgeW91ciBuYW1lPyIsCiAgICAgICJhbnN3ZXIiOiAiSSdtIENoYXRC\nb3QiCiAgICB9LAogICAgewogICAgICAicXVlc3Rpb24iOiAiaGVsbG8hIiwK\nICAgICAgImFuc3dlciI6ICJIZXkgdGhlcmUhIgogICAgfSwKICAgIHsKICAg\nICAgInF1ZXN0aW9uIjogImhvdyBhcmUgeW91PyIsCiAgICAgICJhbnN3ZXIi\nOiAiZ29vZCEgdGhhbmtzIGZvciBhc2tpbmchIgogICAgfSwKICAgIHsKICAg\nICAgInF1ZXN0aW9uIjogIi4uLiIsCiAgICAgICJhbnN3ZXIiOiAiRWxpcHNl\ncyIKICAgIH0sCiAgICB7CiAgICAgICJxdWVzdGlvbiI6ICJuZXdfcXVlc3Rp\nb24iLAogICAgICAiYW5zd2VyIjogIm5ld19hbnN3ZXIiCiAgICB9CiAgXQp9\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/MohammadMahanHN/ChatBot/contents/knowledge_base.json?ref=main",
+    "git": "https://api.github.com/repos/MohammadMahanHN/ChatBot/git/blobs/8c3ecd0c910916c1979699a7589bae90438eef2b",
+    "html": "https://github.com/MohammadMahanHN/ChatBot/blob/main/knowledge_base.json"
+  }
 }
